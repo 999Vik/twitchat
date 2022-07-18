@@ -52,7 +52,6 @@ function SignIn() {
   return (
     <>
       <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google ➡️</button>
-      <p className = 'violate'>Do not violate the community guidelines or you will be banned for life!</p>
     </>
   )
 
